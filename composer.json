@@ -1,6 +1,7 @@
 {
     "name": "ttres/pdac",
     "require": {
+        "php": "^8.1.0",
         "lib-gd": "^2.0"
     }
 }
